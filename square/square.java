@@ -1,3 +1,4 @@
+package square;
 class Solution {
     public int solution(int[][] sizes) {
         int max1=0;
