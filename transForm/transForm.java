@@ -1,3 +1,4 @@
+package transForm;
 class Solution {
     public int solution(int n) {
         StringBuffer stringBuffer = new StringBuffer();
